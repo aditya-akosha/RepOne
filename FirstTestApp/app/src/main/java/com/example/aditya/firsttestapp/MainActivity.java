@@ -1,13 +1,10 @@
 package com.example.aditya.firsttestapp;
 
 import android.graphics.Color;
+import android.os.Bundle;
 import android.os.Handler;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.app.ActionBarActivity;
-import android.os.Bundle;
-import android.util.Log;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
@@ -44,6 +41,6 @@ public class MainActivity extends ActionBarActivity
             }
         });
 
-        
+
     }
 }
