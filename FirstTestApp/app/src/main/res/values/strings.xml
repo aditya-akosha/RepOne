@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FirstTestApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="data">
+
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+
+    </string-array>
+
+</resources>
